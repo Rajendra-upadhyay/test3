@@ -30,11 +30,13 @@ public class TC001_getUsers {
 		Assert.assertEquals(statusCode, response.getStatusCode());
 		
 		Assert.assertEquals(statusCode, 201);
-		System.out.println("added new line1 by testuser1");
 		System.out.println("added new line2 by testuser1");
 		System.out.println("added new line3 by testuser2");
 		System.out.println("added new line4 by testuser1");
 		System.out.println("added new line5 by testuser1");
+		System.out.println("added new line6 by testuser1");
+		System.out.println("added new line7 by testuser1");
+		
 	}
 
 }

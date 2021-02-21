@@ -30,8 +30,8 @@ public class TC001_getUsers {
 		Assert.assertEquals(statusCode, response.getStatusCode());
 		
 		Assert.assertEquals(statusCode, 201);
-		System.out.println("added new line by testuser1");
-		
+		System.out.println("added new line1 by testuser1");
+		System.out.println("added new line2 by testuser1");
 		
 	}
 

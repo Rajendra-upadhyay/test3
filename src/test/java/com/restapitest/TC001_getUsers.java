@@ -39,6 +39,7 @@ public class TC001_getUsers {
 		System.out.println("added new line4 in develop branch by testuser2");
 		System.out.println("added new line5 in develop branch by testuser2");
 		System.out.println("added new line6 in develop branch by testuser2");
+		System.out.println("added new line by testuser2 when in develop1");
 	}
 
 }
